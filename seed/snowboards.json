@@ -1,0 +1,122 @@
+[
+    {
+        "brand": "capita",
+        "model": "indoor survival",
+        "year": 2021,
+        "bestFor": "park",
+        "sizes": [150, 152, 158],
+        "image": "../images/capita_indoor_survival.png"
+    },
+    {
+        "brand": "capita",
+        "model": "powder twin",
+        "year": 2021,
+        "bestFor": "powder",
+        "sizes": [153],
+        "image": "../images/capita_powder_twin.png"
+    },
+    {
+        "brand": "capita",
+        "model": "asymulator",
+        "year": 2021,
+        "bestFor": "resort",
+        "sizes": [152, 156, 158],
+        "image": "../images/capita_asymulator.png"
+    },
+    {
+        "brand": "capita",
+        "model": "mercury",
+        "year": 2021,
+        "bestFor": "resort",
+        "sizes": [147, 150, 155, 158],
+        "image": "../images/capita_mercury.png"
+    },
+    {
+        "brand": "capita",
+        "model": "kazu kokubo pro",
+        "year": 2021,
+        "bestFor": "powder",
+        "sizes": [152, 158, 160],
+        "image": "../images/capita_kazu.png"
+    }, 
+    {
+        "brand": "bataleon",
+        "model": "surfer",
+        "year": 2021,
+        "bestFor": "powder",
+        "sizes": [154, 158, 162],
+        "image": "../images/bataleon_surfer.png"
+    }, 
+    {
+        "brand": "bataleon",
+        "model": "stallion",
+        "year": 2021,
+        "bestFor": "all mountain",
+        "sizes": [153, 156, 160],
+        "image": "../images/bataleon_stallion.png"
+    }, 
+    {
+        "brand": "bataleon",
+        "model": "goliath",
+        "year": 2021,
+        "bestFor": "all mountain",
+        "sizes": [150, 152, 154, 158],
+        "image": "../images/bataleon_goliath.png"
+    }, 
+    {
+        "brand": "bataleon",
+        "model": "disaster",
+        "year": 2021,
+        "bestFor": "powder",
+        "sizes": [150, 154, 158],
+        "image": "../images/bataleon_disaster.png"
+    }, 
+    {
+        "brand": "bataleon",
+        "model": "evil twin",
+        "year": 2021,
+        "bestFor": "park",
+        "sizes": [152, 156, 159],
+        "image": "../images/bataleon_evil_twin.png"
+    }, 
+    {
+        "brand": "burton",
+        "model": "process",
+        "year": 2022,
+        "bestFor": "all mountain",
+        "sizes": [],
+        "image": "../images/burton_process.png"
+    },
+    {
+        "brand": "burton",
+        "model": "tree hometown hero",
+        "year": 2021,
+        "bestFor": "powder",
+        "sizes": [149, 156],
+        "image": "../images/burton_hometown_hero.png"
+    },
+    {
+        "brand": "burton",
+        "model": "custom",
+        "year": 2021,
+        "bestFor": "all mountain",
+        "sizes": [156, 158, 159],
+        "image": "../images/burton_custom.png"
+    },
+    {
+        "brand": "burton",
+        "model": "name dropper",
+        "year": 2021,
+        "bestFor": "park",
+        "sizes": [149, 154, 156, 159, 160],
+        "image": "../images/burton_name_dropper.png"
+    },
+    {
+        "brand": "burton",
+        "model": "instigator",
+        "year": 2021,
+        "bestFor": "all mountain",
+        "sizes": [145, 149, 152, 154],
+        "image": "../images/burton_instigator.png"
+    }
+]
